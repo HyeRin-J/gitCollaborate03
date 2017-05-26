@@ -32,4 +32,4 @@ This | Is | Table
 
 
 
-[1] : https://www.naver.com
+[1]: https://www.naver.com
