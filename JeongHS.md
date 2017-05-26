@@ -30,6 +30,7 @@ This | Is | Table
 1 | 2 | 3
 
 아래는 이미지다.
+
 ![이것이 이미지다!](https://raw.github.com/dcurtis/markdown-mark/master/png/208x128.png)
 
 
