@@ -17,10 +17,9 @@
 >> 두번도 된다.
 
 
-```이것이 코드다.```
-```
-여러 문장도 가능하다.
-이런식으로.
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
 ```
 
 
