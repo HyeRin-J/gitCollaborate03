@@ -14,6 +14,7 @@
 링크
 
 > [구글 인라인 링크](https://www.google.com)
+
 > [구글 참조 링크][구글]
 
 [구글]: https://www.google.com
@@ -25,12 +26,6 @@
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
-코드
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
-
 표
 
 |Tables  |Are    |Cool |
@@ -38,3 +33,11 @@ alert(s);
 |col 3 is|right-aligned|$1600|
 |col 2 is|centered |$12  |
 |zebra stripes|are neat | $ 1|
+
+코드
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+
+
