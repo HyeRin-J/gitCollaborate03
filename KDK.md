@@ -38,6 +38,9 @@ alert(s);
  <dt>Definition list</dt>
  <dd>Is something people us sometimes.</dd>
 
-This line is linebreak
-<Enter> check1 linebreak
-check2 linebreak
+## Horizontal Rule
+
+Hyphens
+***
+Asterisks
+___
