@@ -40,5 +40,5 @@ alert(s);
 
 This line is linebreak
 <Enter>
-check linebreak
-
+check1 linebreak
+check2 linebreak
