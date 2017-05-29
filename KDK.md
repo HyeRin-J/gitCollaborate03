@@ -39,6 +39,5 @@ alert(s);
  <dd>Is something people us sometimes.</dd>
 
 This line is linebreak
-<Enter>
-check1 linebreak
+<Enter> check1 linebreak
 check2 linebreak
