@@ -27,3 +27,20 @@
 이를 해결함과 동시에 음식의 신선도와 질을 높은 상태로 유지 보존 하기 위해 이 시스템을 구상하였다.
 
 -------------------
+
+**기존 관련 사례**
+------------------
+
+*1. 진공 수단을 갖는 식품보관 밀폐용기*
+
+![airtight_container](https://github.com/HyeRin-J/gitCollaborate03/blob/1b8e5ca60c1b823e8418e97ff0a5d0588aa49172/Assignment04/airtight_container.png?raw=true)
+
+용기를 진공 상태로 만듬으로서 음식의 변질을 막는 보관용 밀폐용기
+
+*2. 레이저 스펙클 상관 제거법을 이용하여 음식에 있는 미생물을 검출하는 방법"
+
+![test_logic](https://github.com/HyeRin-J/gitCollaborate03/blob/1b8e5ca60c1b823e8418e97ff0a5d0588aa49172/Assignment04/test_logic.png?raw=true)
+
+음식 표면의 박테리아가 빛을 산란시키는데, 이것은 스펙클에 영향을 미친다.
+박테리아가 움직이면 스펙클 패턴이 변경된다. 레이저 스펙클 강도 패턴의 상관관계를
+감지함으로써 미세 조직의 생활 활동을 감지.
